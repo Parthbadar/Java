@@ -1,4 +1,6 @@
 public class ArraypracticeQ15 {
+
+    // an array where each row can have a different number of columns.
     public static void main(String[] args) {
         int [][] matrix = {
             {1,2},
