@@ -1,4 +1,4 @@
-//1. Function with parameter and return value  
+//1. Function with parameter and return value  (use int because of return value)
 public class Function {
     // Function Definition
     public static int addition(int a, int b)
@@ -9,12 +9,13 @@ public class Function {
     {       
 
         int result = addition(10, 20);
-
         System.out.println(result);
 
         System.out.println(addition(2, 30));
     }
 }
+
+
  /*
         
         Types of function
