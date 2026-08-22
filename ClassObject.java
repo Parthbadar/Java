@@ -18,10 +18,10 @@ class person{
 public class ClassObject{
     public static void main(String[] args) {
         person p1 = new person();
-        p1.setData(1001, "parth", "NSK");
+        p1.setData(1001, "Sarthak", "NSK");
 
         person p2 = new person();
-        p2.setData(1002, "Sarthak", "NSK");
+        p2.setData(1002, "Parth", "NSK");
 
         p1.showData();
         p2.showData();
