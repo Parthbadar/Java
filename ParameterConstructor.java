@@ -18,7 +18,7 @@ class student {
 
 public class ParameterConstructor {
     public static void main(String[] args) {
-        student s1 = new student("parth",21);
+        student s1 = new student("sumit",21);
         student s2 = new student();
 
         s1.showStudent();
